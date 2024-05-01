@@ -2,7 +2,7 @@
  *  
  * @license MIT
  * @author Cennac
- * @project https://github.com/CennacEh/Spectator-Addon/src/BP/revive-GUI.js
+ * @project https://github.com/CennacEh/Spectator-Addon/src/BP/scripts/revive-GUI.js
  */
 
 import { world, system } from "@minecraft/server"
