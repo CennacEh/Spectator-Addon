@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Spectator Addon.</h1>
 
+<a href="https://github.com/CennacEh/Spectator-Addon/releases/tag/1.1.1"><img src="https://img.shields.io/badge/Download-1.20.80-green?labelColor=gray&style=flat&logo=javascript&logoColor=yellow&link=https://github.com/CennacEh/Spectator-Addon/releases/tag/1.1.1" alt="Download" /></a>
+
 <p id="description">This is a bedrock addon. This addon makes it so when a player dies they get turned into Spectator and to continue playing your friends need to craft an egg of life to revive you.</p>
 <img src="https://media.discordapp.net/attachments/1209108729719554078/1235307850272866344/pack_icon.png2.png?ex=6633e596&is=66329416&hm=55d583ee11e070e187ced9a9db7c27bbcc07f7c15063f46d2ffce96d2fea7152&=&format=webp&quality=lossless&width=497&height=424" alt="Egg-SS" width="350" height="300">
 
